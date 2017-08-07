@@ -5,7 +5,7 @@
 
 <?php if ( has_post_thumbnail() ) : ?>
 
-<div><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('large',  array( 'class' => 'img-responsive' )); ?></a></div>
+<div><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('large',  array( 'class' => 'img-responsive center-block' )); ?></a></div>
 
 <?php else : 
 $category = get_the_category(); 
