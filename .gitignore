@@ -2,6 +2,7 @@
 # https://help.github.com/articles/ignoring-files
 # Example.gitignore files : https://github.com/github/gitignore
 [_]notes/
+[_]notes/
 _notes/
 /bower_components/
 /node_modules/
