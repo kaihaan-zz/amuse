@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-11-15 21:27:12+0000\n"
+"PO-Revision-Date: 2017-08-07 17:04:58+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -484,7 +484,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Settings_Screen\">ת
 #. translators: 1: site url, 2: server error message
 #: wp-admin/network/upgrade.php:88
 msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
-msgstr "זהירות: בעיות בעדכון %1$s. השרת כנראה לא מצליח להתחבר לאתרים שרצים עליו. הודעת שגיאה: %2$s"
+msgstr "זהירות: בעיות בשדרוג %1$s. השרת כנראה לא מצליח להתחבר לאתרים שרצים עליו. הודעת שגיאה: %2$s"
 
 #: wp-admin/network/themes.php:131
 msgid "You are about to remove the following themes:"
@@ -595,7 +595,7 @@ msgstr "שינוי הגדרות רשת גלובליות"
 
 #: wp-admin/network/index.php:26
 msgid "Update your network"
-msgstr "עדכון רשת"
+msgstr "שדרוג רשת"
 
 #: wp-admin/network/index.php:25
 msgid "Install and activate themes or plugins"
@@ -619,7 +619,7 @@ msgstr "וורדפרס שודרגה! עתה יש לשדרג בנפרד כל את
 
 #: wp-admin/network/upgrade.php:22
 msgid "Only use this screen once you have updated to a new version of WordPress through Updates/Available Updates (via the Network Administration navigation menu or the Toolbar). Clicking the Upgrade Network button will step through each site in the network, five at a time, and make sure any database updates are applied."
-msgstr "השתמש במסך זה רק אחרי עדכון לגרסת וורדפרס חדשה דרך מסך העדכונים. לחיצה על הכפתור עדכון רשת יעבור על כך אתר ברשת, חמישה בכל פעם, ויוודא שכל מסד נתונים עודכן בהתאם."
+msgstr "השתמש במסך זה רק אחרי שדרוג לגרסת וורדפרס חדשה דרך מסך השדרוגים. לחיצה על הכפתור שדרוג רשת יעבור על כל אתר ברשת, חמישה בכל פעם, ויוודא שכל מסדי נתונים שודרגו בהתאם."
 
 #: wp-admin/network/menu.php:22 wp-admin/network/upgrade.php:15
 #: wp-admin/network/upgrade.php:40 wp-admin/network/upgrade.php:131
@@ -654,7 +654,7 @@ msgstr "כבר לא ניתן להוסיף מנהלי מערכת ממסך האפ�
 
 #: wp-admin/network/menu.php:19
 msgid "Updates"
-msgstr "עדכונים"
+msgstr "שדרוגים"
 
 #: wp-admin/network/site-new.php:24
 msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
@@ -731,7 +731,7 @@ msgstr "<strong>משתמשים</strong> - מציג משתמשים המשוייכ
 #: wp-admin/network/site-info.php:22 wp-admin/network/site-settings.php:21
 #: wp-admin/network/site-themes.php:21 wp-admin/network/site-users.php:24
 msgid "<strong>Info</strong> &mdash; The site URL is rarely edited as this can cause the site to not work properly. The Registered date and Last Updated date are displayed. Network admins can mark a site as archived, spam, deleted and mature, to remove from public listings or disable."
-msgstr "<strong>מידע</strong> - הדומיין והנתיב נערכים לעתים נדירות משום שהפעולה עשויה לגרום לאתר לא לעבוד כראוי. בנוסף מוצגים תאריכי הרישום והעדכון האחרונים. מנהלי הרשת יוכלים לסמן אתרים כאתרי ארכיון, אתרי זבל וכדומה על מנת להסיר אותם מהרישום הפומבי."
+msgstr "<strong>מידע</strong> - הדומיין והנתיב נערכים לעתים נדירות משום שהפעולה עשויה לגרום לאתר לא לעבוד כראוי. בנוסף מוצגים תאריכי הרישום והשדרוג האחרונים. מנהלי הרשת יוכלים לסמן אתרים כאתרי ארכיון, אתרי זבל וכדומה על מנת להסיר אותם מהרישום הפומבי."
 
 #: wp-admin/network/site-info.php:25 wp-admin/network/site-settings.php:24
 #: wp-admin/network/site-themes.php:24 wp-admin/network/site-users.php:27
@@ -1072,7 +1072,7 @@ msgstr "בעמוד זה מופיעים כל המשתמשים ברשת, וכל ה
 
 #: wp-admin/network/upgrade.php:23
 msgid "If a version update to core has not happened, clicking this button won&#8217;t affect anything."
-msgstr "אם לא עדכנת את ההתקנה של וורדפרס, הכפתור בעמוד זה לא יעשה כלום."
+msgstr "אם לא שדרגת את התקנת הוורדפרס, הכפתור בעמוד זה לא יעשה כלום."
 
 #: wp-admin/network/upgrade.php:24
 msgid "If this process fails for any reason, users logging in to their sites will force the same update."

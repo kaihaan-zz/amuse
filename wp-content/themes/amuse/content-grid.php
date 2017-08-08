@@ -28,7 +28,7 @@
 ?></div>
 
 <!-- Post Excerpt -->
-<div class="grid-excerpt"><?php the_excerpt(); ?></div>
+<div class="grid-excerpt"><?php echo kai_excerpt(20); ?></div>
 
 
 <?php // the_content(); ?>
