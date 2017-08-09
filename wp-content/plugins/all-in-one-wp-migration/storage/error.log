@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aug 08 2017 16:06:37
 {"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
 
@@ -52,3 +53,59 @@ Aug 08 2017 16:08:37
 Aug 08 2017 16:08:37
 {"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
 
+=======
+Aug 08 2017 16:06:37
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:37
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:38
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:38
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:40
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:40
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:40
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:41
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:06:41
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:34
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:34
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:34
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:35
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:36
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:37
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:37
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:37
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+Aug 08 2017 16:08:37
+{"type":8,"message":"Constant WP_TEMP_DIR already defined","file":"C:\\xampp\\htdocs\\wp-config.php","line":105}
+
+>>>>>>> origin/master
